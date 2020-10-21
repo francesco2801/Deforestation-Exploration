@@ -8,4 +8,8 @@ Deforestation-Exploration
 ### Description
 Deforestation-Exploration is a report for ForestQuery into Global Deforestation from 1990 to 2016.
 
+### Languages
+SQL 
+
+
 
